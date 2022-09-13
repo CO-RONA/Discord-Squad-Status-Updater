@@ -1,0 +1,30 @@
+{
+	"name": "Discord Squad Status Updater",
+	"version": "0.0.1",
+	"description": "Shows the status of your squad server in Discord",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/CO-RONA/Discord-Squad-Status-Updater"
+	},
+	"keywords": [
+		"discord",
+		"discord bot",
+		"squad status",
+		"squadjs",
+		"simple"
+	],
+	"author": "WE-STUDIOS",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/CO-RONA/Discord-Squad-Status-Updater/issues"
+	},
+	"homepage": "https://github.com/CO-RONA/Discord-Squad-Status-Updater#readme",
+	"dependencies": {
+		"@discordjs/rest": "^1.1.0",
+		"chalk": "^4.1.2",
+		"discord.js": "^14.3.0",
+		"gamedig": "^4.0.5",
+		"mongoose": "^6.6.0",
+		"socket.io-client": "^4.5.2"
+	}
+}
